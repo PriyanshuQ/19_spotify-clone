@@ -1,6 +1,3 @@
 {
-  "/(site)/page": "app/(site)/page.js",
-  "/account/page": "app/account/page.js",
-  "/api/webhooks/route": "app/api/webhooks/route.js",
-  "/api/create-portal-link/route": "app/api/create-portal-link/route.js"
+  "/not-found": "app/not-found.js"
 }
