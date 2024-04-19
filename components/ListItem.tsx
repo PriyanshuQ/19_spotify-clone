@@ -31,7 +31,7 @@ const ListItem:React.FC<ListItemProps> = ({image,name,href}) => {
         {name}
       </p>
       <div className="absolute transition opacity-0 rounded-full flex justify-center items-center
-      bg-green-500 p-4 drop-shadow-md right-5 group-hover:opacity-100 hover:scale-110">
+      bg-blue-500 p-4 drop-shadow-md right-5 group-hover:opacity-100 hover:scale-110">
         <FaPlay className="text-black"/>
       </div>
     </button>
